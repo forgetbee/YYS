@@ -15,6 +15,8 @@ Mac：在终端（terminal）下分别运行 pip3 install opencv-python 和 pip3
 
 解放双手 Have fun!
 
+原始分辨率是多少？
+
 百鬼夜行出错
 Traceback (most recent call last):
   File "F:\Mobile Game\YYS-master\yys.py", line 44, in wrap
