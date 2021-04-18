@@ -14,3 +14,13 @@ Mac：在终端（terminal）下分别运行 pip3 install opencv-python 和 pip3
 桌面版必须使用原始分辨率，其它分辨率则需要重新截图才能正常工作。
 
 解放双手 Have fun!
+
+百鬼夜行出错
+Traceback (most recent call last):
+  File "F:\Mobile Game\YYS-master\yys.py", line 44, in wrap
+    ans = f(*agrs, **kwagrs)
+  File "F:\Mobile Game\YYS-master\yys.py", line 97, in select_mode
+    command()
+  File "F:\Mobile Game\YYS-master\yys.py", line 748, in baigui
+    want=imgs['youxiang']
+KeyError: 'youxiang'
